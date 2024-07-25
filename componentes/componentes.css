@@ -5,10 +5,8 @@
 }
 
 .div_formulario{
-    width: 100rem;
-    height: 100rem;
-    max-width: 60rem;
-    padding: 1rem;
+    width: 100%;
+    max-width: 800px;
     margin-top: 5rem;
 
 
@@ -19,11 +17,18 @@
 }
 
 .div_formulario .item{
-    text-decoration: none;
+
+   
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 15px;
+    width: 300px; 
+    height: 100px; 
+    text-align: center;
     color: black;
     border: 1px solid gray;
     border-radius: 3px;
-    font-size: 2rem;
+   
 
     display: flex;
     justify-content: center;

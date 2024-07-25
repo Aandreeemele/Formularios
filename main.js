@@ -7,9 +7,10 @@ div_formulario.className = "div_formulario";
 //Lista de datos(String)
 let formulario = [
     {nombre:"Login",link:"componentes/login/login.html"},
-    {nombre:"Login",link:"#"},
-    {nombre:"Login",link:"#"},
-    {nombre:"Login",link:"#"},
+    {nombre:"formulaDeComentariosReseñas",link:"componentes/formulaDeComentariosReseñas/reseña.html"},
+    {nombre:"formulaDeContactos",link:"componentes/formulaDeContactos/contacto.html"},
+    {nombre:"formulaDePedidosCompras",link:"componentes/formulaDePedidosCompras/pedidos.html"},
+    {nombre:"formularioDeBusqueda",link:"componentes/formularioDeBusqueda/busqueda.html"},
 
 ];
 
