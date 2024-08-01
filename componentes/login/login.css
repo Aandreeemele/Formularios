@@ -28,6 +28,7 @@ body{
     margin: auto;
     margin-top: 3.5%;
     background-color: white;
+    
     display: grid;
     grid-template-columns: 60rem auto;
 }
